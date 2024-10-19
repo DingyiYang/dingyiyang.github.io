@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ce4f616c-b5fd-4389-aeb9-1a89aba6c6e6)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,13 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the last year PhD at Renmin University of China, advised by Prof. Qin Jin.
+I am a final-year PhD student at Renmin University of China, advised by Prof. Qin Jin. My research focuses on vision and language, involving cross-modal generation, multimodal understanding, and automatic evaluation.
 
-My research interest includes Multimedia and Natural Language Processing. I am now working at book-level text evaluation and generation. 
+Currently, I am working on book-level text evaluation and generation.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: Our survey work was released: [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622).
+- *2024.08*: [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](aclanthology.org/2024.acl-long.513) was accepted by ACL 2024.
+- *2024.06*: Finished my research internship at Alimama Group. Thanks to my mentor Tiezheng Ge.
+- *2023.10*: [Visual captioning at will: Describing images and videos guided by a few stylized sentences](dl.acm.org/doi/10.1145/3581783.3612263) was accepted by ACM MM 2023.
+- *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
 
 # 📝 Publications 
 
@@ -39,18 +43,18 @@ My research interest includes Multimedia and Natural Language Processing. I am n
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **ACL 2024**
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship.
+- *2022.09&2023.09* The First Prize Scholarship.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.10 (now)*, Renmin University of China. Supervisor: Prof. Qin Jin. 
+- *2018.09 - 2021.06*, Peking University. Supervisor: Prof. Xiaoru Yuan. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
