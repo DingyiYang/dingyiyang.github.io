@@ -47,7 +47,7 @@ Currently, I am working on book-level text evaluation and generation.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship.
-- *2022.09&2023.09* The First Prize Scholarship.
+- *2022.09 and 2023.09* The First Prize Scholarship.
 
 # 📖 Educations
 - *2021.09 - 2024.10 (now)*, Renmin University of China. Supervisor: Prof. Qin Jin. 
