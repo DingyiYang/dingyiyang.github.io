@@ -40,7 +40,7 @@ Currently, I am working on book-level text evaluation and generation.
 
 [**Open Source**](https://github.com/alibaba/alimama-video-narrator) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose the task of Synchronized Video Storytelling, generating text to **narrate the ongoing video scenes** and **serve as useful voiceovers.** 
-- We propose a new benchmark in the advertising domain, namely E-SyncVidStory, which contains rich annotations.
+- We propose a new benchmark in the advertising domain, namely E-SyncVidStory.
 - We propose an effective framework called VideoNarrator, which simultaneously supports storyline generation and controllable video story generation.
 
 </div>
@@ -76,9 +76,6 @@ Currently, I am working on book-level text evaluation and generation.
 </div>
 </div>
 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,8 +95,8 @@ Currently, I am working on book-level text evaluation and generation.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Top 0.2%)
-- *2022.09 & 2023.09* The First Prize Scholarship.
-- *2020.09 & 2019.09* Model Student of Academic Records.
+- *2022.09 and 2023.09* The First Prize Scholarship.
+- *2020.09 and 2019.09* Model Student of Academic Records.
 - *2017.09* Sa-Shixuan Elite Fund Scholarship.
 
 # 📖 Educations
