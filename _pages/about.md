@@ -62,7 +62,7 @@ Currently, I am working on book-level text evaluation and generation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/papers/few_shot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual captioning at will: Describing images and videos guided by a few stylized sentences](https://dl.acm.org/doi/pdf/10.1145/3581783.3612263)
