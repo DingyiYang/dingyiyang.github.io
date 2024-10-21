@@ -31,7 +31,7 @@ Currently, I am working on book-level text evaluation and generation.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/papers/synchronized.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](https://aclanthology.org/2024.acl-long.513.pdf)
