@@ -47,7 +47,7 @@ Currently, I am working on book-level text evaluation and generation.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622)
@@ -76,7 +76,7 @@ Currently, I am working on book-level text evaluation and generation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/papers/svst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Attractive storyteller: Stylized visual storytelling with unpaired text](https://aclanthology.org/2023.acl-long.619.pdf)
