@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/71977833-002a-4747-93c9-850afcd63c4d)![image](https://github.com/user-attachments/assets/791ad7e4-0812-4368-9dd3-67d57efff6f7)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D student at Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on vision and language, involving cross-modal generation, multimodal understanding, and automatic evaluation.
-
-Currently, I am working on book-level text evaluation and generation.
+I am a final-year Ph.D student at Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on vision and language, involving cross-modal generation, multimodal understanding, and automatic evaluation. Currently, I am working on book-level text evaluation and generation.
 
 
 # 🔥 News
-- *2024.09*: Our survey paper was released: [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622). Check our [GitHub page](https://github.com/DingyiYang/Awesome-Story-Evaluation) for a quick review.
+- *2024.09*: Our survey paper [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622) was released. Visit our [GitHub page](https://github.com/DingyiYang/Awesome-Story-Evaluation) for a quick review.
 - *2024.08*: [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](aclanthology.org/2024.acl-long.513) was accepted by ACL 2024.
-- *2024.06*: Finished my research internship at Alibaba Group. It's my pleasure to work with my mentor, [Tiezheng Ge].
+- *2024.06*: Completed my research internship at Alibaba Group. It's my pleasure to work with my mentor, [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en).
 - *2023.10*: [Visual captioning at will: Describing images and videos guided by a few stylized sentences](dl.acm.org/doi/10.1145/3581783.3612263) was accepted by ACM MM 2023.
 - *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
 
@@ -40,8 +38,8 @@ Currently, I am working on book-level text evaluation and generation.
 
 [**Open Source**](https://github.com/alibaba/alimama-video-narrator) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose the task of Synchronized Video Storytelling, generating text to **narrate the ongoing video scenes** and **serve as useful voiceovers.** 
-- We propose a new benchmark in the advertising domain, namely E-SyncVidStory.
-- We propose an effective framework called VideoNarrator, which simultaneously supports storyline generation and controllable video story generation.
+- We release a new benchmark in the advertising domain called E-SyncVidStory.
+- We propose an effective framework named VideoNarrator, which simultaneously supports storyline generation and controllable video story generation.
 
 </div>
 </div>
@@ -55,8 +53,9 @@ Currently, I am working on book-level text evaluation and generation.
 **Dingyi Yang**, Qin Jin
 
 [**Open Source**](https://github.com/DingyiYang/Awesome-Story-Evaluation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We highlight the evaluation challenges in story generation, identify various human criteria to measure stories, and present existing benchmark datasets.
-- We propose a taxonomy to organize evaluation metrics that have been developed or can be adapted for story evaluation, along with a discussion of their merits and limitations.
+- We provide an in-depth discussion of the challenges in evaluating various story-generation tasks.
+- We analyze standardized criteria, addressing issues of inconsistent definitions and vague expressions.
+- We systematically review traditional, LLM-based, and collaborative evaluation methods, highlighting their strengths and limitations in the context of story evaluation.
 - We suggest potential future research directions, extending from story evaluation to general evaluations.
 
 </div>
@@ -69,8 +68,8 @@ Currently, I am working on book-level text evaluation and generation.
 
 **Dingyi Yang**, Hongyu Chen, Xinglin Hou, Tiezheng Ge, Yuning Jiang, Qin Jin
 
-- We explore the task of few-shot visual captioning, aiming to generate stylized captions guided by a few sentences.
-- We propose FS-StyleCap, a two-stage trained framework.
+- We explore Few-Shot Stylized Visual Captioning, which aims to generate captions in any desired style, using only a few examples as guidance during inference, without requiring further training.
+- We propose an effective framework that handles multiple styles with a single model. It extracts the style representation from stylized samples, and aligns visual information to generate stylized captions.
 
 
 </div>
@@ -84,14 +83,18 @@ Currently, I am working on book-level text evaluation and generation.
 **Dingyi Yang**, Qin Jin
 
 - We explore stylized visual storytelling, generating stories with complicated styles for image sequences.
-- We propose StyleVSG, with style-specific parameters to control the text style, and a memory module to maintain context coherence.
-- To achieve a trade-off between style accuracy and visual relevance, we apply multi-task training on our pseudo {images-stylized story} pairs and {images-factual story} pairs.
+- We propose StyleVSG, which applies style-specific parameters to control text style and incorporates a memory module to maintain context coherence.
+- To balance style accuracy and visual relevance, we employ multi-task training using our pseudo {images-stylized story} pairs and {images-factual story} pairs.
 
 
 </div>
 </div>
 
-- [An experimental study of text representation methods for cross-site purchase preference prediction using the social text data](jcst.ict.ac.cn/en/article/doi/10.1007/s11390-017-1763-6), Ting Bai, Hong-Jian Dou, Wayne Xin Zhao, **Dingyi Yang**, Ji-Rong Wen. Journal of Computer Science and Technology, 32(4): 828-842, 2017.
+- [An experimental study of text representation methods for cross-site purchase preference prediction using the social text data](jcst.ict.ac.cn/en/article/doi/10.1007/s11390-017-1763-6). Ting Bai, Hong-Jian Dou, Wayne Xin Zhao, **Dingyi Yang**, Ji-Rong Wen. Journal of Computer Science and Technology, 32(4): 828-842, 2017.
+
+# 🔧 Projects
+- [**Map Visualization Toolkit**](https://vis.pku.edu.cn/map_toolkit/): A comprehensive toolkit for map data processing, visualization, and interaction. Role: Creator and sole developer.
+- [**COVID-19 Visualization and Visual Analytics**](): A series of data visualization projects, helping people to understand the epidemic. Role: Main developer, design and set up the map visualization websites.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Top 0.2%)
