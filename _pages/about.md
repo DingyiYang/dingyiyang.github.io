@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71977833-002a-4747-93c9-850afcd63c4d)![image](https://github.com/user-attachments/assets/791ad7e4-0812-4368-9dd3-67d57efff6f7)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -94,7 +94,7 @@ I am a final-year Ph.D student at Renmin University of China, advised by Prof. [
 
 # 🔧 Projects
 - [**Map Visualization Toolkit**](https://vis.pku.edu.cn/map_toolkit/): A comprehensive toolkit for map data processing, visualization, and interaction. Role: Creator and sole developer.
-- [**COVID-19 Visualization and Visual Analytics**](): A series of data visualization projects, helping people to understand the epidemic. Role: Main developer, design and set up the map visualization websites.
+- [**COVID-19 Visualization and Visual Analytics**](https://vis.pku.edu.cn/ncov/home_en.html): A series of data visualization projects, helping people to understand the epidemic. Role: Main developer, design and set up the map visualization websites.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Top 0.2%)
