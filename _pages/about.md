@@ -22,10 +22,10 @@ I am a final-year Ph.D student at Renmin University of China, advised by Prof. [
 
 # 🔥 News
 - *2024.09*: Our survey paper [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622) was released. Visit our [GitHub page](https://github.com/DingyiYang/Awesome-Story-Evaluation) for a quick review.
-- *2024.08*: [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](aclanthology.org/2024.acl-long.513) was accepted by ACL 2024.
+- *2024.08*: [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](https://aclanthology.org/2024.acl-long.513.pdf) was accepted by ACL 2024.
 - *2024.06*: Completed my research internship at Alibaba Group. It's my pleasure to work with my mentor, [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en).
-- *2023.10*: [Visual captioning at will: Describing images and videos guided by a few stylized sentences](dl.acm.org/doi/10.1145/3581783.3612263) was accepted by ACM MM 2023.
-- *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
+- *2023.10*: [Visual captioning at will: Describing images and videos guided by a few stylized sentences](https://dl.acm.org/doi/10.1145/3581783.3612263) was accepted by ACM MM 2023.
+- *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](https://aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
 
 # 📝 Publications 
 
@@ -90,7 +90,7 @@ I am a final-year Ph.D student at Renmin University of China, advised by Prof. [
 </div>
 </div>
 
-- [An experimental study of text representation methods for cross-site purchase preference prediction using the social text data](jcst.ict.ac.cn/en/article/doi/10.1007/s11390-017-1763-6). Ting Bai, Hong-Jian Dou, Wayne Xin Zhao, **Dingyi Yang**, Ji-Rong Wen. Journal of Computer Science and Technology, 32(4): 828-842, 2017.
+- [An experimental study of text representation methods for cross-site purchase preference prediction using the social text data](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-017-1763-6). Ting Bai, Hong-Jian Dou, Wayne Xin Zhao, **Dingyi Yang**, Ji-Rong Wen. Journal of Computer Science and Technology, 32(4): 828-842, 2017.
 
 # 🔧 Projects
 - [**Map Visualization Toolkit**](https://vis.pku.edu.cn/map_toolkit/): A comprehensive toolkit for map data processing, visualization, and interaction. Role: Creator and sole developer.
@@ -103,8 +103,8 @@ I am a final-year Ph.D student at Renmin University of China, advised by Prof. [
 - *2017.09* Sa-Shixuan Elite Fund Scholarship.
 
 # 📖 Educations
-- *2021.09 - 2024.10 (now)*, Renmin University of China. Supervisor: Prof. Qin Jin. 
-- *2018.09 - 2021.06*, Peking University. Supervisor: Prof. Xiaoru Yuan. 
+- *2021.09 - 2024.10 (now)*, Renmin University of China. Supervisor: Prof. [Qin Jin](https://www.jin-qin.com/). 
+- *2018.09 - 2021.06*, Peking University. Supervisor: Prof. [Xiaoru Yuan](https://scholar.google.com/citations?user=mJJVqRYAAAAJ). 
 
 # 💬 Invited Talks
 - *2024.09*, "AI+X" National Forum for Outstanding Doctoral Students.
