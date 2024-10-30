@@ -22,7 +22,7 @@ I am a final-year Ph.D. student at Renmin University of China, advised by Prof. 
 
 # 🔥 News
 - *2024.09*: Our survey paper [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622) was released. Visit our [GitHub page](https://github.com/DingyiYang/Awesome-Story-Evaluation) for a quick review.
-- *2024.10*: Completed my research internship at Alibaba Group. It's my pleasure to work with my mentor, [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en).
+- *2024.09*: Completed my research internship at Alibaba Group. It's my pleasure to work with my mentor, [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en).
 - *2024.08*: [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](https://aclanthology.org/2024.acl-long.513.pdf) was accepted by ACL 2024.
 - *2023.10*: [Visual captioning at will: Describing images and videos guided by a few stylized sentences](https://dl.acm.org/doi/10.1145/3581783.3612263) was accepted by ACM MM 2023.
 - *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](https://aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
