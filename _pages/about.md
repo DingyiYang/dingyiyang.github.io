@@ -99,8 +99,8 @@ I am a final-year Ph.D. student at Renmin University of China, advised by Prof. 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Top 0.2% in China)
 - *2022.09 and 2023.09* The First Prize Scholarship.
-- *2020.09 and 2019.09* Academic Excellence Scholarship.
-- *2017.09* The Second Prize Sa-Shixuan Elite Fund Scholarship.
+- *2019.09* Academic Excellence Scholarship.
+- *2016.09* The Second Prize Sa-Shixuan Elite Fund Scholarship.
 - *2016.09* The First Prize Scholarship.
 
 # 📖 Educations
