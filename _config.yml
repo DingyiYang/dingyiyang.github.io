@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dingyi Yang"
-description              : "Ph.D. Candidate at Renmin University of China"
+description              : ""
 repository               : "DingyiYang/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dingyi Yang"
   avatar           : "images/dingyi.jpg"
-  bio              :  "AIM3 Lab"
+  bio              :  "Ph.D. Candidate at Renmin University of China"#"AIM3 Lab"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
