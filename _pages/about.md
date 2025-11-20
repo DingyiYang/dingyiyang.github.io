@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring book-level story evaluation and generation.
+I am a postdoc researcher at Nanyang Technological University. I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring book-level story evaluation and generation.
 
 
 # 🔥 News
+- *2025.07*: [What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation]([https://aclanthology.org/2024.acl-long.513.pdf](https://aclanthology.org/2025.acl-long.799/)) was accepted by ACL 2025.
 - *2024.09*: Our survey paper [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622) was released. Visit our [GitHub page](https://github.com/DingyiYang/Awesome-Story-Evaluation) for a quick review.
 - *2024.09*: Completed my research internship at Alibaba Group. It's my pleasure to work with my mentor, [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en).
 - *2024.08*: [Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline](https://aclanthology.org/2024.acl-long.513.pdf) was accepted by ACL 2024.
