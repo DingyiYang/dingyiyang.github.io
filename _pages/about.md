@@ -29,7 +29,7 @@ I am a postdoc researcher at Nanyang Technological University. I received my PhD
 - *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](https://aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/Story_Eval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/StoryEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation](https://aclanthology.org/2024.acl-long.513.pdf)
