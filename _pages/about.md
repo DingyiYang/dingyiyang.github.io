@@ -1,4 +1,4 @@
----
+<img width="644" height="51" alt="image" src="https://github.com/user-attachments/assets/6a91033f-299c-487d-b9ae-5604fe2311aa" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -29,6 +29,21 @@ I am a postdoc researcher at Nanyang Technological University. I received my PhD
 - *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](https://aclanthology.org/2023.acl-long.619/) was accepted by ACL 2023.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/Story_Eval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation](https://aclanthology.org/2024.acl-long.513.pdf)
+
+**Dingyi Yang**, Qin Jin
+
+[**Open Source**](https://github.com/DingyiYang/LongStoryEval)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We explore the problem of book-length story evaluation, and release the first large-scale story evaluation benchmark.
+- We introduce a hierarchical structure of evaluation criteria, and analyze significant aspects.
+- We explore and compare three methods for lengthy story evaluation. For cost-efficiency, summarized-based evaluation could be a better choice.
+- We propose NovelCritique, an expert summary-based model for lengthy story evaluation.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/papers/synchronized.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
