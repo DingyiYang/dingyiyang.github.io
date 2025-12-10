@@ -36,7 +36,7 @@ I am a postdoc researcher at Nanyang Technological University. I received my PhD
 
 **Dingyi Yang**, Qin Jin
 
-[**Open Source**](https://github.com/DingyiYang/LongStoryEval)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Open Source**](https://github.com/DingyiYang/LongStoryEval) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We explore the problem of book-length story evaluation, and release the first large-scale story evaluation benchmark.
 - We introduce a hierarchical structure of evaluation criteria, and analyze significant aspects.
 - We explore and compare three methods for lengthy story evaluation. For cost-efficiency, summarized-based evaluation could be a better choice.
