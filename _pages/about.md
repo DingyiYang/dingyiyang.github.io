@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoc researcher at Nanyang Technological University. I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring book-level story evaluation and generation.
+I am a postdoctoral researcher at Nanyang Technological University. I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring long-context multimodal understanding and intention understanding.
 
 
 # 🔥 News
@@ -32,7 +32,7 @@ I am a postdoc researcher at Nanyang Technological University. I received my PhD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/StoryEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation](https://aclanthology.org/2024.acl-long.513.pdf)
+[What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation](https://aclanthology.org/2025.acl-long.799.pdf)
 
 **Dingyi Yang**, Qin Jin
 
