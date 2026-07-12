@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher at Nanyang Technological University. I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring long-context multimodal understanding and intention understanding.
+I am a postdoctoral researcher at Nanyang Technological University, and will join Tianjin University as an Associate Researcher. I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring long-context multimodal understanding and intention understanding.
 
 
 # 🔥 News
+- *2026.07*: One paper is accepted by ACM MM 2026.
 - *2026.04*: Two papers are accepted by ACL 2026.
 - *2026.03*: Our work on knowledge tracking in ToM [Are LLMs Smarter Than Chimpanzees? An Evaluation on Perspective Taking and Knowledge State Estimation](https://arxiv.org/pdf/2601.12410) is released.
 - *2025.07*: [What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation](https://aclanthology.org/2024.acl-long.513.pdf) is accepted by ACL 2025.
@@ -31,6 +32,26 @@ I am a postdoctoral researcher at Nanyang Technological University. I received m
 - *2023.07*: [Attractive storyteller: Stylized visual storytelling with unpaired text](https://aclanthology.org/2023.acl-long.619/) is accepted by ACL 2023.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/papers/HowToNarrate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HowToNarrate: A General-Domain Benchmark for Synchronized Video Narration with External Knowledge](https://aclanthology.org/2026.acl-long.1815/)
+
+Xueyan Wang, **Dingyi Yang** (Equal Contribution), Qin Jin
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/ChangJuan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChangJuan: A Comprehensive Benchmark for Book-Length Chinese Story Evaluation](https://aclanthology.org/2026.findings-acl.2044/)
+
+**Dingyi Yang**, Mingshuo Wang (Equal Contribution), Qin Jin
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/StoryEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
