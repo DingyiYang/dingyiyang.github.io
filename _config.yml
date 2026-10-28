@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dingyi Yang"
   avatar           : "images/dingyiyang2.jpg"
-  bio              :  "Postdoctoral researcher at Nanyang Technological University"#"AIM3 Lab"
-  location         : "Singapore"
+  bio              :  "Associate Professor at Tianjin University"#"AIM3 Lab"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uf7B0DAAAAAJ"
-  email            : "dingyi.yang@ntu.edu.sg"
+  email            : "dingyi_yang@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

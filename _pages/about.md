@@ -16,13 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am an Associate Professor at Tianjin University. Before joining Tianjin University, I was a PostDoc Fellow at Nanyang Technological University (NTU), working with Prof. [Boyang Li](https://boyangli.org/). I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). 
+My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring long-context multimodal understanding and intention understanding.
 
-I am a postdoctoral researcher at Nanyang Technological University, and will join Tianjin University as an Associate Researcher. I received my PhD from Renmin University of China, advised by Prof. [Qin Jin](https://www.jin-qin.com/). My research focuses on Vision and Language, involving cross-modal generation, video understanding, and automatic evaluation. Currently, I am exploring long-context multimodal understanding and intention understanding.
 
+<span class='anchor' id='recruitment'></span>
+# 🎓 招生信息
+
+长期招生，欢迎对多模态理解与生成、自然语言处理、认知理解等相关领域感兴趣的同学通过 [dingyi_yang@tju.edu.cn](mailto:dingyi_yang@tju.edu.cn) 与我联系！
 
 # 🔥 News
+- *2026.08*: One paper is accepted by EMNLP 2026 Findings.
 - *2026.07*: One paper is accepted by ACM MM 2026.
-- *2026.04*: Two papers are accepted by ACL 2026.
+- *2026.04*: Two papers are accepted by ACL 2026 (1 Main, 1 Findings).
 - *2026.03*: Our work on knowledge tracking in ToM [Are LLMs Smarter Than Chimpanzees? An Evaluation on Perspective Taking and Knowledge State Estimation](https://arxiv.org/pdf/2601.12410) is released.
 - *2025.07*: [What Matters in Evaluating Book-Length Stories? A Systematic Study of Long Story Evaluation](https://aclanthology.org/2024.acl-long.513.pdf) is accepted by ACL 2025.
 - *2024.09*: Our survey paper [What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation](https://arxiv.org/pdf/2408.14622) is released. Visit our [GitHub page](https://github.com/DingyiYang/Awesome-Story-Evaluation) for a quick review.
@@ -42,15 +48,8 @@ Xueyan Wang, **Dingyi Yang** (Equal Contribution), Qin Jin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/ChangJuan.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/ChangJuan.png' 
 
-[ChangJuan: A Comprehensive Benchmark for Book-Length Chinese Story Evaluation](https://aclanthology.org/2026.findings-acl.2044/)
-
-**Dingyi Yang**, Mingshuo Wang (Equal Contribution), Qin Jin
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/StoryEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
