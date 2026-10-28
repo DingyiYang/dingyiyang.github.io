@@ -48,8 +48,15 @@ Xueyan Wang, **Dingyi Yang** (Equal Contribution), Qin Jin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/ChangJuan.png' 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/papers/ChangJuan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[ChangJuan: A Comprehensive Benchmark for Book-Length Chinese Story Evaluation](https://aclanthology.org/2026.findings-acl.2044/)
+
+**Dingyi Yang**, Mingshuo Wang (Equal Contribution), Qin Jin
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/StoryEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
